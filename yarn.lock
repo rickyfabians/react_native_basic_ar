@@ -5586,7 +5586,7 @@
   "resolved" "https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz"
   "version" "16.13.1"
 
-"react-native-camera@^4.2.1":
+"react-native-camera@4.2.1":
   "integrity" "sha512-+Vkql24PFYQfsPRznJCvPwJQfyzCnjlcww/iZ4Ej80bgivKjL9eU0IMQIXp4yi6XCrKi4voWXxIDPMupQZKeIQ=="
   "resolved" "https://registry.npmjs.org/react-native-camera/-/react-native-camera-4.2.1.tgz"
   "version" "4.2.1"
@@ -5603,7 +5603,7 @@
     "jscodeshift" "^0.13.1"
     "nullthrows" "^1.1.1"
 
-"react-native-easy-gestures@^2.2.4":
+"react-native-easy-gestures@2.2.4":
   "integrity" "sha512-a8rIqkAiE9pySVXEbZS3qQpzpVI4036LHkQDdByDlXIBplQhq9KMYVz0z+UxHlSF4He34FDGfuE/52n0wpDe6Q=="
   "resolved" "https://registry.npmjs.org/react-native-easy-gestures/-/react-native-easy-gestures-2.2.4.tgz"
   "version" "2.2.4"
@@ -5611,12 +5611,17 @@
     "prop-types" "^15.6.0"
     "ramda" "^0.26.0"
 
+"react-native-gl-model-view@^1.6.0":
+  "integrity" "sha512-isZNRDe9gQz/HhCRMhlz1lxhdZfyUYo1ng8LJroSCRTCx7xOdTWENCGxN02wgUw5igQiRaZKEXy0npfqYg2Qqw=="
+  "resolved" "https://registry.npmjs.org/react-native-gl-model-view/-/react-native-gl-model-view-1.6.0.tgz"
+  "version" "1.6.0"
+
 "react-native-gradle-plugin@^0.0.6":
   "integrity" "sha512-eIlgtsmDp1jLC24dRn43hB3kEcZVqx6DUQbR0N1ABXGnMEafm9I3V3dUUeD1vh+Dy5WqijSoEwLNUPLgu5zDMg=="
   "resolved" "https://registry.npmjs.org/react-native-gradle-plugin/-/react-native-gradle-plugin-0.0.6.tgz"
   "version" "0.0.6"
 
-"react-native@*", "react-native@0.68.2":
+"react-native@*", "react-native@>=0.47", "react-native@0.68.2":
   "integrity" "sha512-qNMz+mdIirCEmlrhapAtAG+SWVx6MAiSfCbFNhfHqiqu1xw1OKXdzIrjaBEPihRC2pcORCoCHduHGQe/Pz9Yuw=="
   "resolved" "https://registry.npmjs.org/react-native/-/react-native-0.68.2.tgz"
   "version" "0.68.2"

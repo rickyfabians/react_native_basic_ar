@@ -12,8 +12,9 @@
   "dependencies": {
     "react": "17.0.2",
     "react-native": "0.68.2",
-    "react-native-camera": "^4.2.1",
-    "react-native-easy-gestures": "^2.2.4"
+    "react-native-camera": "4.2.1",
+    "react-native-easy-gestures": "2.2.4",
+    "react-native-gl-model-view": "^1.6.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
